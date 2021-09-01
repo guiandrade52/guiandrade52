@@ -1,12 +1,9 @@
 ### Opa, tudo bão? Meu nome é Guilherme de Andrade 🤙
 ### E esse é meu perfil 🙄
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://gui.com.br)
-[![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/guilherme-andrade-castro-vieira-201445157/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004024281112)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/profile.php?id=100004024281112)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiandrade52&show_icons=true&theme=dracula)
 
