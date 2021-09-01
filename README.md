@@ -1,4 +1,5 @@
-### Olá! Meu nome é Guilherme de Andrade 🤙
+### Opa, tudo bão? Meu nome é Guilherme de Andrade 🤙
+### E esse é meu perfil 🙄
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://gui.com.br)
