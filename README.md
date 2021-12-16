@@ -1,5 +1,5 @@
-### Opa, tudo bão? Meu nome é Guilherme de Andrade 🤙
-### E esse é meu perfil 🙄
+### Olá, tudo bem? Meu nome é Guilherme de Andrade 🤙
+### Seja muito bem vindo :)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/guilherme-andrade-castro-vieira-201445157/)
